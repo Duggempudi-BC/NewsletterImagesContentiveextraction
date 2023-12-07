@@ -1,4 +1,4 @@
 flask
 selenium
-urllib
+urllib3
 bs4
